@@ -1,0 +1,103 @@
+[
+    {
+    "id": 1,
+    "title": "The interasting book of children",
+    "price": 109.95,
+    "author":"M Khaled Mahmud",
+    "publisher":"All kadim Books depo",
+    "description": "They provide us with the basic mechanics of a new language as well as explanations of those mechanics. ",
+    "image": "https://5.imimg.com/data5/QX/KB/XV/ANDROID-4607958/1561106709990-jpg-500x500.jpg"
+    },
+    {
+        "id": 2,
+        "title": "The Alphabet to Authentic Texts",
+        "price": 100,
+        "author":"M Hafezur Rahman",
+        "publisher":"All jadid Books",
+        "description": " This gives us the solid framework we need for the rest of our language learning journeys.",
+        "image": "https://5.imimg.com/data5/DQ/BX/EK/ANDROID-4607958/1561105694531-jpg-500x500.jpg"
+      },
+    {
+        "id": 3,
+        "title": "Learn Arabic Language",
+        "price": 80.10,
+        "author":"M Tawfiqur",
+        "publisher":"All Arafah",
+        "description": "But the use of textbooks does not necessarily need to be confined to the classroom.",
+        "image": "https://www.nourbook.com/publice/covers_cache_jpg/13/7/f/8/e831e851137f877ba45dbca2938f0ca9.png.jpg"
+      },
+    {
+        "id": 4,
+        "title": "Using Arabic Textbooks",
+        "price": 110.10,
+        "author":"MF Jubayer Ahmad",
+        "publisher":"Rohimia Books Depo",
+        "description": "Textbooks are especially important when learning languages such as Arabic that utilize an unfamiliar writing system.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqTu8REMUjO2JssXQ_UHBq7ToldYLMCs6EEU_cE72DvJ32AAOJWLrjbjX25XQMqamXorI&usqp=CAU"
+      },
+    {
+        "id": 5,
+        "title": "The Al-Kitaab Series",
+        "price": 90,
+        "author":"M M Mahmud Hasen",
+        "publisher":"victor",
+        "description": "The Al-Kitaab series is hands down the most widely used series of Arabic textbook at American universities.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLfGyaxC8b86NfKxbUKsI6VTnNLKFaixLQ8IGBSYoKb9nOJBeokHrkPAPzFTCz3ID1qFU&usqp=CAU"
+      },
+    {
+        "id": 6,
+        "title": "Node js",
+        "price": 95,
+        "author":"Harold_Hal",
+        "publisher":"Maktabay Salam",
+        "description": " Node. js can be used in both the frontend and backend of application",
+        "image": "https://www.neelwafurat.com/images/eg/abookstore/covers/carton/183/183980.jpg"
+      },
+    {
+        "id": 7,
+        "title": "“Alif Baa”",
+        "price": 60,
+        "author":"H Jhankar",
+        "publisher":"Maktabay Rahmani",
+        "description": "“Alif Baa” is an introductory textbook that teaches newcomers how to read and write the Arabic alphabet.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5WHuVc5DVo87dHWIbq-m5eCuEvKS1ndSBA&usqp=CAU"
+      },
+    {
+        "id": 8,
+        "title": "Learning Arabic Language Of The Quran",
+        "price": 200,
+        "author":"Baldie",
+        "publisher":"Mktabay Atiq",
+        "description": "The message of the Qur'an is addressed to all creation, conveyed in the Arabic language. Allah Almighty.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7fOlwc_QyvHEwsvOr1cTN2v1FP50wBgRcfRVw6FzA_vx4p2y_D6tMisXTjU-ldeLoHng&usqp=CAU"
+      },
+    {
+        "id": 9,
+        "title": "Arabic Verbs and Essentials of Grammar”",
+        "price": 150,
+        "author":"Dr Jakir Hossen",
+        "publisher":"Darul Hadith",
+        "description": "This textbook is devoted specifically to the syntax of the Arabic language.",
+        "image": "https://www.fluentu.com/blog/arabic/wp-content/uploads/sites/21/2016/10/arabic-textbook-4.jpg"
+      },
+    {
+    "id": 10,
+    "title": "php and mysqel",
+    "price": 55.99,
+    "author":"Ronny",
+    "publisher":"Darul Quran",
+    "description": " Best PHP Books for Beginners & Advanced Programmers",
+    "image": "https://hackr.io/blog/media/1570190912db2KBL9cEI.jpg"
+    },
+   
+    {
+    "id": 11,
+    "title": "Rogar paulin",
+    "price": 160,
+    "author":" Ronnie",
+    "publisher":"All Ajhar",
+    "description": "great outerwear jackets for Spring/Autumn/Winter,",
+    "image": "https://www.openbookpublishers.com/shopimages/products/thumbnails/1425.jpg"
+    }
+    
+ ]

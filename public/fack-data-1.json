@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "The interasting book of children",
+        "price": 109.95,
+        "author":"M Khaled Mahmud",
+        "publisher":"All kadim Books depo",
+        "description": "They provide us with the basic mechanics of a new language as well as explanations of those mechanics in our own native. ",
+        "image": "https://5.imimg.com/data5/QX/KB/XV/ANDROID-4607958/1561106709990-jpg-500x500.jpg"
+        },
+        {
+            "id": 2,
+            "title": "The Alphabet to Authentic Texts",
+            "price": 100,
+            "author":"M Hafezur Rahman",
+            "publisher":"All jadid Books",
+            "description": " This gives us the solid framework we need for the rest of our language learning journeys.",
+            "image": "https://5.imimg.com/data5/DQ/BX/EK/ANDROID-4607958/1561105694531-jpg-500x500.jpg"
+          },
+        {
+            "id": 3,
+            "title": "Learn more Arabic Language",
+            "price": 80.10,
+            "author":"M Tawfiqur",
+            "publisher":"All Arafah",
+            "description": "But the use of textbooks does not necessarily need to be confined to the classroom.",
+            "image": "https://www.nourbook.com/publice/covers_cache_jpg/13/7/f/8/e831e851137f877ba45dbca2938f0ca9.png.jpg"
+          }
+]
