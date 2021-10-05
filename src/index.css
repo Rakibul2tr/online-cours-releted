@@ -56,6 +56,9 @@ code {
   padding: 40px 0 20px 0;
   border-bottom: 1px solid rgb(95, 90, 90);
 }
+.homepagservic{
+  min-height: 480px;
+}
 .coursanchor{
   text-decoration: none;
   color: white;

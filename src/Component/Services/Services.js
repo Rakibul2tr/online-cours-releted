@@ -28,7 +28,7 @@ const Services = () => {
                 {
                     services.map(service=><Col md={4}key={service.id}>
                         
-                        <Card className="text-center p-2">
+                        <Card className="homepagservic text-center p-2 mb-3">
                             <div className="service-image">
                             <Card.Img className="w-100 h-100 ms-5 rounded-circle" variant="top" src={service.image} />
                             </div>

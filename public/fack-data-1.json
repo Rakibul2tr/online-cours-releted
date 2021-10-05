@@ -25,5 +25,14 @@
             "publisher":"All Arafah",
             "description": "But the use of textbooks does not necessarily need to be confined to the classroom.",
             "image": "https://www.nourbook.com/publice/covers_cache_jpg/13/7/f/8/e831e851137f877ba45dbca2938f0ca9.png.jpg"
+          },
+          {
+            "id": 9,
+            "title": "Arabic Verbs and Essentials of Grammar”",
+            "price": 150,
+            "author":"Dr Jakir Hossen",
+            "publisher":"Darul Hadith",
+            "description": "This textbook is devoted specifically to the syntax of the Arabic language.",
+            "image": "https://www.fluentu.com/blog/arabic/wp-content/uploads/sites/21/2016/10/arabic-textbook-4.jpg"
           }
 ]
